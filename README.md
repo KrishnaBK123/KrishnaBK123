@@ -24,6 +24,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KrishnaBK123&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 ---
 
 ## 🚀 Tech Stack
