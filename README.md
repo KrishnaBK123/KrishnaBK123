@@ -12,7 +12,8 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I’m driven by a passion for technology, a love for clean code, and a mission to build products that make a difference.
+⚡ Fun fact: I thrive on creating seamless user experiences and am always eager to dive into new technologies and engineering challenges.
+
 
 ---
 
