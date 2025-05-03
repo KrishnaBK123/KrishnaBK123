@@ -32,8 +32,8 @@
 ## 🚀 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript, Angular, React.js
-- **Backend:** Java
-- **UI/UX:** Figma
+- **Backend:** Java, FastAPI.
+- **UI/UX:** Figma, Miro Board
 - **Tools:** Git, GitHub, VS Code
 
 ---
