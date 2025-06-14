@@ -41,6 +41,6 @@
 ## 🌟 Let's Connect!
 
 📫 **Email:** krishnabk7204@gmail.com  
-💼 **LinkedIn:** *www.linkedin.com/in/krishna-kuntabhimagol-96301525b*
+💼 **LinkedIn:** *www.linkedin.com/in/krishna-kuntabhimagol*
 
 ---
